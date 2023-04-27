@@ -1,0 +1,11 @@
+﻿V;Pitypang;30
+V;Fekete tulipán;66
+V;Liliom; 25
+V;Rózsa;50
+D;Kecske
+D;Fehér
+D;Ádám
+D;Maja
+M;Sanyi
+M;Darázs
+M;Lódarázs

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ViragokEsRovarok", "ViragokEsRovarok\ViragokEsRovarok.csproj", "{CABEA207-14BB-4019-AF50-C81290C46789}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CABEA207-14BB-4019-AF50-C81290C46789}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CABEA207-14BB-4019-AF50-C81290C46789}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CABEA207-14BB-4019-AF50-C81290C46789}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CABEA207-14BB-4019-AF50-C81290C46789}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ECD41F0F-D3FD-43F8-AF29-B5A314B7EC5E}
+	EndGlobalSection
+EndGlobal
